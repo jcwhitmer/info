@@ -20,7 +20,7 @@ TYPE OF CHALLENGE: Automated Scoring of Open Ended Reading Test Items
 **SUBMISSION START: 9/16/2021 8:00 AM ET\
 SUBMISSION END: 11/28/2021 5:00 PM ET**
 
-Request for Information Webinar: 10/4/2021 @ 12:00 ET (Email <automated-scoring-challenge@ed.gov> to register)
+Request for Information Webinar: 10/4/2021 @ 12:00 ET (Email <automated-scoring-challenge@ed.gov> to register).  This webinar has now closed.  
 ## Description
 
 Automated Scoring using natural language processing is a well-developed
